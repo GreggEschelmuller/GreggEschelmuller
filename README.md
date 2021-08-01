@@ -1,0 +1,4 @@
+- Hi, I’m @GreggEschelmuller
+- I’m interested in human motor control/neurophysiology
+- I’m currently learning python (switching from MATLAB)
+- 📫 How to reach me g.eschelmuller@gmail.com
