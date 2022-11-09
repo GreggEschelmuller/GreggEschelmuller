@@ -1,5 +1,4 @@
 <h1> Hi, I’m Gregg Eschelmuller </h1>
-<hr>
 <ul>
   <li>I am a PhD student at the University of British Columbia</li>
   <li>interested in human motor control/neurophysiology</li>
