@@ -19,4 +19,4 @@ I'm currently focused on translating this PhD-level experience into robust, indu
 
 ---
 
-📫 **Contact:** g.eschelmuller@gmail.com | [My Personal Site](https://greggeschelmuller.github.io/personal-site/) | [My LinkedIn](YOUR_LINK_HERE)
+📫 **Contact:** g.eschelmuller@gmail.com | [My Personal Site](https://greggeschelmuller.github.io/personal-site/) | [My LinkedIn](https://www.linkedin.com/in/gregg-eschelmuller/)
