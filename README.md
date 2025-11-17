@@ -1,38 +1,22 @@
-## Hi, I’m Gregg Eschelmuller 👋
+## Hi, I’m Gregg Eschelmuller
 
-I'm a PhD Candidate (Neuromechanics) at the University of British Columbia, bridging the gap between human neuroscience and "real tech."
+I'm a PhD Candidate in Neuromechanics at the University of British Columbia.
 
-My research focuses on proprioception, sensory feedback, and motor learning. I don't just analyze this data—I build the real-time hardware platforms (**Python, NI-DAQ**) to capture it and the Bayesian models (**PyMC, Scikit-learn**) to understand it.
+My research focuses on human motor control, proprioception, and how the nervous system uses sensory feedback to learn and adapt.
 
-I'm pivoting from academia to a full-time role in **Neurotech, Robotics, or ML Research**, where I can use my domain expertise in human-machine interaction to help build next-generation systems.
+I build the tools for my own research, from real-time experiment platforms (Python, NI-DAQ, PsychoPy) to the computational models (Bayesian stats, ML) for data analysis.
 
----
-
-### 🛠️ My Tech Stack
-
-* **Core:** Python, NumPy, Pandas, SciPy, Matplotlib
-* **ML/Modeling:** PyTorch, Scikit-learn, Statsmodels (Bayesian/Mixed Models)
-* **Neuro/Hardware:** PsychoPy, NI-DAQmx
-* **Tools:** Git, GitHub, MATLAB
+I'm currently focused on translating this PhD-level experience into robust, industry-ready projects as I pursue roles in **Neurotech**, **ML Research**, and **R&D Engineering**.
 
 ---
 
-### 🌱 My Current 4-Pillar Focus
+### Core Technical Skills
 
-This is my 6-month plan to finish my PhD and pivot to tech.
-
-1.  **Build Pillar Projects:** Creating a professional portfolio of my 3 core projects (see my pinned repositories below!):
-    * **Pillar 1:** A real-time hardware platform for human-in-the-loop motor control.
-    * **Pillar 2:** A Bayesian model translating my PhD research on proprioceptive illusions.
-    * **Pillar 3:** A Bayesian state-space model for cue combination.
-2.  **Write "Translator" Blog:** Writing on [my personal site](https://greggeschelmuller.github.io/personal-site/) to connect the dots between motor control, ML, and real-world tech.
-3.  **Finish Neurotech Credential:** Completing my Neurotech Microcredential (Neuro Electronic Recording, Neuroimaging).
-4.  **Master the Foundation:** Working through *Mathematics for Machine Learning* to solidify my theoretical base.
+* **Languages:** Python, MATLAB
+* **Data Science & ML:** Pandas, NumPy, SciPy, Scikit-learn, Statsmodels, PyTorch
+* **Hardware & Neuro:** NI-DAQmx, PsychoPy, Biomechanical/EMG data analysis
+* **Tools:** Git, GitHub
 
 ---
 
-### 📫 Connect with Me
-
-* **My Blog/Site:** [greggeschelmuller.github.io/personal-site](https://greggeschelmuller.github.io/personal-site/)
-* **LinkedIn:** [Your LinkedIn URL Here]
-* **Email:** g.eschelmuller@gmail.com
+📫 **Contact:** g.eschelmuller@gmail.com | [My Personal Site](https://greggeschelmuller.github.io/personal-site/) | [My LinkedIn](YOUR_LINK_HERE)
