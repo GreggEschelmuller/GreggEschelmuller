@@ -26,7 +26,7 @@ I develop generative models to solve problems of uncertainty in complex systems.
 I engineer modular, configuration-driven pipelines designed to process and validate datasets exceeding **millions of observations**. My focus is on operational reliability: ensuring that analysis is 100% reproducible through strict dependency management and automated validation schemas.
 
 #### System Identification
-I map the response characteristics of non-linear feedback loops using broadband noise injection and spectral analysis. I utilize linear systems tools—including coherence, gain, and phase—to characterize dynamic relationships, assess information content across time scales, and validate the structural integrity of complex models against empirical data.
+I map the response characteristics of non-linear feedback loops using broadband noise injection and spectral analysis. I utilize linear systems tools, including coherence, gain, and phase, to characterize dynamic relationships, assess information content across time scales, and validate the structural integrity of complex models against empirical data.
 
 
 ---
