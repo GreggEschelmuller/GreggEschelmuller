@@ -1,22 +1,36 @@
-## Hi, I’m Gregg Eschelmuller
+# Hi, I’m Gregg Eschelmuller
 
-I'm a PhD Candidate in Neuromechanics at the University of British Columbia.
+I am a PhD Candidate and Quantitative Researcher at the University of British Columbia specializing in signal processing and probabilistic modeling.
 
-My research focuses on human motor control, proprioception, and how the nervous system uses sensory feedback to learn and adapt.
+My work centers on **extracting signal from noisy, stochastic environments.** I focus on building the mathematical and engineering infrastructure required to infer the true state of complex systems from high-dimensional datasets.
 
-I build the tools for my own research, from real-time experiment platforms (Python, NI-DAQ, PsychoPy) to the computational models (Bayesian stats, ML) for data analysis.
-
-I'm currently focused on translating this PhD-level experience into robust, industry-ready projects as I pursue roles in **Neurotech**, **ML Research**, and **R&D Engineering**.
+I am currently transitioning my background in Bayesian state estimation and automated data pipelines into industry roles in **Data Science**, **Quantitative Analysis**, and **Research Engineering**.
 
 ---
 
-### Core Technical Skills
+### Technical Arsenal
 
-* **Languages:** Python, MATLAB
-* **Data Science & ML:** Pandas, NumPy, SciPy, Scikit-learn, Statsmodels, PyTorch
-* **Hardware & Neuro:** NI-DAQmx, PsychoPy, Biomechanical/EMG data analysis
-* **Tools:** Git, GitHub
+* **Analysis:** Python (Pandas, NumPy, SciPy, Scikit-learn, Statsmodels), PyTorch, SQL, MATLAB.
+* **Modeling:** Bayesian Inference, Latent State Estimation, Causal Inference, System Identification.
+* **Engineering:** Automated ETL Pipelines, Stateless Architecture, Vectorized Processing, `uv`, `pytest`.
+* **Data Visualization:** Plotly Dash, Streamlit, Matplotlib, Seaborn.
 
 ---
 
-📫 **Contact:** g.eschelmuller@gmail.com | [My Personal Site](https://greggeschelmuller.github.io/personal-site/) | [My LinkedIn](https://www.linkedin.com/in/gregg-eschelmuller/)
+### Key Focus Areas
+
+#### Probabilistic State Estimation
+I develop generative models to solve problems of uncertainty in complex systems. While my primary data source is biological, the underlying mathematics involves using **Bayesian frameworks** to reconcile conflicting signals and identify latent parameters in high-noise environments. 
+
+#### Automated Signal Processing at Scale
+I engineer modular, configuration-driven pipelines designed to process and validate datasets exceeding **millions of observations**. My focus is on operational reliability: ensuring that analysis is 100% reproducible through strict dependency management and automated validation schemas.
+
+#### System Identification
+I map the response characteristics of non-linear feedback loops using broadband noise injection and spectral analysis. I utilize linear systems tools—including coherence, gain, and phase—to characterize dynamic relationships, assess information content across time scales, and validate the structural integrity of complex models against empirical data.
+---
+
+### Connect with Me
+
+📫 **Email:** g.eschelmuller@gmail.com
+🌐 **Portfolio:** [greggeschelmuller.github.io](https://greggeschelmuller.github.io/personal-site/)
+💼 **LinkedIn:** [linkedin.com/in/gregg-eschelmuller](https://www.linkedin.com/in/gregg-eschelmuller/)
