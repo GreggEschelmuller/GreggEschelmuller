@@ -27,6 +27,8 @@ I engineer modular, configuration-driven pipelines designed to process and valid
 
 #### System Identification
 I map the response characteristics of non-linear feedback loops using broadband noise injection and spectral analysis. I utilize linear systems tools—including coherence, gain, and phase—to characterize dynamic relationships, assess information content across time scales, and validate the structural integrity of complex models against empirical data.
+
+
 ---
 
 ### Connect with Me
