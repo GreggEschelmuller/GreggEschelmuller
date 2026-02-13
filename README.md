@@ -24,7 +24,7 @@ Bootstrap confidence intervals, frequency-domain coherence and gain analysis, la
 **[bayesian-proprioception](https://github.com/GreggEschelmuller/bayesian-proprioception)** *(in progress)*  
 Bayesian observer model of proprioceptive integration during reaching. Forward model: precision-weighted MLE over four conditionally independent sensory channels. Inverse model: L-BFGS-B joint optimization to recover σ (sensory noise) and δ (vibration bias) from behavioral data. Includes synthetic data generation, parameter recovery validation, and posterior predictive checks.
 
-**[prop-recal](https://github.com/GreggEschelmuller/prop-recal)**  
+**[proprioceptive-recalibration](https://github.com/GreggEschelmuller/proprioceptive-recalibration)**  
 Configuration-driven analysis pipeline for sensorimotor recalibration experiments. Modular `src/` layout, YAML-parameterized workflows, bootstrap CI estimation, automated data validation. Designed for reproducible reprocessing across multiple experimental conditions without code changes.
 
 ---
