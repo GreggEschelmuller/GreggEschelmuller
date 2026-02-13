@@ -1,38 +1,52 @@
-# Hi, I’m Gregg Eschelmuller
+# Gregg Eschelmuller
 
-I am a PhD Candidate and Quantitative Researcher at the University of British Columbia specializing in signal processing and probabilistic modeling.
+**Quantitative Researcher — Probabilistic Modeling & Signal Processing**
 
-My work centers on **extracting signal from noisy, stochastic environments.** I focus on building the mathematical and engineering infrastructure required to infer the true state of complex systems from high-dimensional datasets.
-
-I am currently transitioning my background in Bayesian state estimation and automated data pipelines into industry roles in **Data Science**, **Quantitative Analysis**, and **Research Engineering**.
+PhD candidate (Kinesiology, Neuromechanics) at UBC. My research sits at the intersection of Bayesian inference, high-frequency physiological signal processing, and sensorimotor neuroscience. I build models that recover latent structure from noisy, high-dimensional biological data.
 
 ---
 
-### Technical Arsenal
+## What I work on
 
-* **Analysis:** Python (Pandas, NumPy, SciPy, Scikit-learn, Statsmodels), PyTorch, SQL, MATLAB.
-* **Modeling:** Bayesian Inference, Latent State Estimation, Causal Inference, System Identification.
-* **Engineering:** Automated ETL Pipelines, Stateless Architecture, Vectorized Processing, `uv`, `pytest`.
-* **Data Visualization:** Plotly Dash, Streamlit, Matplotlib, Seaborn.
+**Bayesian state estimation**  
+I develop generative models of sensory integration — treating perception as an inference problem over noisy, partially conflicting signal sources. Current work: an inverse Bayesian observer model that recovers subject-specific sensory weights from behavioral endpoint error data, using joint optimization across experimental conditions with identifiability constraints.
 
----
+**High-frequency signal processing pipelines**  
+Production-grade ETL infrastructure for kHz-range physiological data streams (EMG, force, kinematic time series). Emphasis on automated artifact detection, alignment validation, and reproducible reprocessing across large longitudinal datasets.
 
-### Key Focus Areas
-
-#### Probabilistic State Estimation
-I develop generative models to solve problems of uncertainty in complex systems. While my primary data source is biological, the underlying mathematics involves using **Bayesian frameworks** to reconcile conflicting signals and identify latent parameters in high-noise environments. 
-
-#### Automated Signal Processing at Scale
-I engineer modular, configuration-driven pipelines designed to process and validate datasets exceeding **millions of observations**. My focus is on operational reliability: ensuring that analysis is 100% reproducible through strict dependency management and automated validation schemas.
-
-#### System Identification
-I map the response characteristics of non-linear feedback loops using broadband noise injection and spectral analysis. I utilize linear systems tools, including coherence, gain, and phase, to characterize dynamic relationships, assess information content across time scales, and validate the structural integrity of complex models against empirical data.
-
+**Statistical modeling & uncertainty quantification**  
+Bootstrap confidence intervals, frequency-domain coherence and gain analysis, latent variable estimation, model validation against empirical data. I treat uncertainty as a first-class output, not an afterthought.
 
 ---
 
-### Connect with Me
+## Selected projects
 
-📫 **Email:** g.eschelmuller@gmail.com
-🌐 **Portfolio:** [greggeschelmuller.github.io](https://greggeschelmuller.github.io/personal-site/)
-💼 **LinkedIn:** [linkedin.com/in/gregg-eschelmuller](https://www.linkedin.com/in/gregg-eschelmuller/)
+**[bayesian-proprioception](https://github.com/GreggEschelmuller/bayesian-proprioception)** *(in progress)*  
+Bayesian observer model of proprioceptive integration during reaching. Forward model: precision-weighted MLE over four conditionally independent sensory channels. Inverse model: L-BFGS-B joint optimization to recover σ (sensory noise) and δ (vibration bias) from behavioral data. Includes synthetic data generation, parameter recovery validation, and posterior predictive checks.
+
+**[prop-recal](https://github.com/GreggEschelmuller/prop-recal)**  
+Configuration-driven analysis pipeline for sensorimotor recalibration experiments. Modular `src/` layout, YAML-parameterized workflows, bootstrap CI estimation, automated data validation. Designed for reproducible reprocessing across multiple experimental conditions without code changes.
+
+---
+
+## Stack
+
+**Modeling:** Python (NumPy, SciPy, PyTorch), MATLAB  
+**Inference:** Bayesian inference, MLE, bootstrap methods, frequency-domain analysis (coherence, gain, phase)  
+**Engineering:** Pandas, automated ETL pipelines, Git, pytest, uv, ruff  
+**Database:** PostgreSQL *(in progress)*
+
+---
+
+## Credentials
+
+- NSERC Canadian Graduate Scholarship – Doctoral (CGS-D)
+- Killam Doctoral Scholarship
+- UBC Four-Year Fellowship
+- 6 peer-reviewed publications — [Google Scholar](https://scholar.google.com/citations?user=Sxvpo7YAAAAJ&hl=en)
+
+---
+
+📫 g.eschelmuller@gmail.com  
+🌐 [greggeschelmuller.github.io](https://greggeschelmuller.github.io/personal-site/)  
+💼 [linkedin.com/in/gregg-eschelmuller](https://www.linkedin.com/in/gregg-eschelmuller/)
